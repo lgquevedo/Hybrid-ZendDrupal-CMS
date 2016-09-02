@@ -5,6 +5,8 @@
 2. Será facilmente extensible, y podrá ser usado sin escribir una sola línea de código.
 3. Será desarrollado 100% en php usando zendframework como plataforma de desarrollo.
 4. Será liviano y portable. No obligará a contratar servicios de proveedores con gran infraestructura para correr, apuntará a ser de utilidad a quienes no pueden o no quieren contratarlos, particularmente pymes, que deben usar servicios de hosting compartido en los que resulta un exabrupto hacer preload de cientos o miles de clases y objetos que no van a ser usados en sus transacciones normales.
+ 
+
 ### Características a ofrecer
 1. Instalación y configuración simples
 2. Abstracción de bases de datos
